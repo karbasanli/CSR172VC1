@@ -58,7 +58,7 @@ s.close()
 
 
 
-#vulnserver uzerinde bufferoverflow calismasi icin hazirlanan script.(07052017)
+#vulnserver uzerinde bufferoverflow calismasi icin hazirlanan script.(WolfPack-07052017)
 
 
 
